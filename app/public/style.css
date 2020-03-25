@@ -49,3 +49,7 @@ footer h3 {
 [class*="col-"] {
   padding: 1rem;
 }
+
+.navbar {
+  background-color: lightskyblue;
+}

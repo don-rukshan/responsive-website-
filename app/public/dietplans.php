@@ -5,34 +5,17 @@
 </head>
 <body>
 <!--- Navigation -->
-	<?php  $page = 'home'; include 'includes/navbar.php'; ?>
-
-	<!--- Image Slider -->
-	<div class="carousel slide" data-ride="carousel">
-		<div class="carousel-inner">
-			<div class="carousel-item active"><img src="./img/hero-bcg.jpg"></div>
-			<div class="carousel-item"><img src="img/sky.png"></div>
-			<div class="carousel-item"><img src="img/bridge.png"></div>
-		</div>
-	</div>
-	<!--- End Image Slider -->
-
-	<!--- Complete Bootstrap Course -->
-	<div class="container">
-		<div class="row justify-content-center text-center">
-			<div class="col-10 py-5">
-				<h2>Complete Bootstrap Course</h2>
-				<p class="lead">Bootstrap is an open-source front-end library with HTML and CSS based designs. This website is built with HTML5, CSS3 and Bootstrap 4.</p><a class="btn btn-purple btn-lg" href="https://w3newbie.com/courses/" target="_blank">Complete Bootstrap Course</a>
-			</div>
-		</div>
-	</div>
-	<!--- Complete Bootstrap Course -->
+	<?php include 'includes/navbar.php'; ?>
 
 
+<div class="row mt-5">
+<div class="col-12 text-center mt-5">
+<h2> Team </h2>
+</div>
+</div>
 
 
-
-	<!--- Start Jumbotron -->
+<!--- Start Jumbotron -->
 	<div class="jumbotron">
 		<div class="container">
 			<h2 class="text-center pt-5 pb-3">BUILT WITH THE BEST</h2>
@@ -81,7 +64,7 @@
 
 
 
-<!--- Footer -->
+ <!--- Footer -->
 	<?php include 'includes/footer.php'; ?>
 
 <!--- Scripts -->

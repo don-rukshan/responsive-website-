@@ -3,7 +3,7 @@
 		<div class="container">
 			<div class="row text-center py-5">
 				<div class="col-md-4">
-					<img src="img/bootstrap.png">
+					<img src="img/logo.png">
 					<p>At our core is a collection of design and development solutions that represent everything your business needs to compete in the modern marketplace.</p>
 				</div>
 				<div class="col-md-4">
