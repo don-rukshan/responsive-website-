@@ -1,5 +1,5 @@
 	<!--- Navigation -->
-	<nav class="navbar navbar-dark bg-dark navbar-expand-md fixed-top">
+	<nav class="navbar navbar-dark navbar-expand-md fixed-top" style="background-color:rgb(24, 43, 43)">
 		<div class="container-fluid">
 			<a class="navbar-brand" href="index.php"><img src="img/logo.png" alt="store logo"/></a> <button class="navbar-toggler" data-target="#navbarResponsive" data-toggle="collapse" type="button"><span class="navbar-toggler-icon"></span></button>
 			<div class="collapse navbar-collapse" id="navbarResponsive">

@@ -43,13 +43,13 @@ body {
 }
 
 footer {
-  background-color: #40474e;
+  background-color: rgb(24, 43, 43);
   background-size: cover;
   color: white;
 }
 footer .row {
   padding: 1.5rem 0 4rem;
-  line-height: 2rem;
+  line-height: 1.5rem;
 }
 footer img {
   margin: 1.5rem 0;
@@ -62,8 +62,4 @@ footer h3 {
 
 [class*="col-"] {
   padding: 1rem;
-}
-
-.navbar {
-  background-color: lightskyblue;
 }

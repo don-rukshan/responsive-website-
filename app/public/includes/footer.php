@@ -1,7 +1,7 @@
 	<!--- Start Footer -->
 	<footer>
 		<div class="container">
-			<div class="row text-center py-5">
+			<div class="row text-center py-2">
 				<div class="col-md-4">
 					<img src="img/logo.png">
 					<p>The content on the website is for informational purposes only and it is not intended as to replace a relationship with a qualified healthcare professional.</p>
