@@ -252,6 +252,29 @@
     <!-- end of products-->
 
 
+<!--- Start Jumbotron -->
+	<div class="jumbotron" style="background:black">
+		<div class="container">
+			
+			<div class="row justify-content-center text-center">
+				<div class="col-10 col-md-6">
+					<div class="feature">
+						<h3 style="color:Yellow">Proteins</h3>
+						<p style="color:white">Protein provides the body with amino acids, which are the building blocks for muscle growth and are considered an essential supplement by top bodybuilders. You can get your protein in many forms, including powder and bars.</p>
+					</div>
+				</div>
+				<div class="col-10 col-md-6">
+					<div class="feature">
+						
+						<h3 style="color:Yellow">Fat Burners</h3>
+            <p style="color:white">
+            Fat burners are a category of nutritional supplement that can improve your body’s ability to burn its own fat. Many fat burners are also believed to be able to markedly up your energy expenditure, improve fat oxidation when you work out, and boost weight loss efforts.</p>
+					</div>
+				</div>
+			</div><!--- End Row -->
+		</div><!--- End Container -->
+	</div>
+	<!--- End Jumbotron -->
 
 
  <!--- Footer -->

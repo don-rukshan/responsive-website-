@@ -9,7 +9,7 @@
 				<div class="col-md-4">
 					<h3 class="text-center" style="margin-top:37px">CONTACT INFO</h3><strong> Contact Info</strong>
 					<p>(111) 111-1111<br>
-					email@griffith.com</p>
+					info@fitnesslab.au</p>
 				</div>
 				<div class="col-md-4 pb-5">
 					<h3 class="text-center" style="margin-top:39px">CONNECT WITH US</h3><br>

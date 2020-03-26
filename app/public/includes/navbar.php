@@ -5,19 +5,19 @@
 			<div class="collapse navbar-collapse" id="navbarResponsive">
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item">
-						<a class="nav-link" href="index.php">Home</a>
+						<a class="nav-link" href="index.php" style="color:white">Home</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="products.php">Products</a>
+						<a class="nav-link" href="products.php" style="color:white">Products</a>
 					</li>   
 					<li class="nav-item">
-						<a class="nav-link" href="workouts.php">Workouts</a>
+						<a class="nav-link" href="workouts.php" style="color:white">Workouts</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="dietplans.php">Diet Plans</a>
+						<a class="nav-link" href="dietplans.php" style="color:white">Diet Plans</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="contact-us.php">Contact Us</a>
+						<a class="nav-link" href="contact-us.php" style="color:white">Contact Us</a>
 					</li>
 				</ul>
 			</div>
