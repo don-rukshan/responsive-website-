@@ -5,7 +5,7 @@
 </head>
 <body>
 <!--- Navigation -->
-	<?php include 'includes/navbar.php'; ?>
+	<?php  $page = 'contact-us'; include 'includes/navbar.php'; ?>
 
 
 <div class="row mt-5">
@@ -13,9 +13,6 @@
 <h2> Contact Us </h2>
 </div>
 </div>
-
- 
-
 
 
 	<!--- Two Column Section -->
@@ -30,7 +27,7 @@
       <div class="col-lg-6">
         <div id="stylized" class="myform">
 	<link href="contact.css" rel="stylesheet">
-      <form id="form1" id="form1" action="mail.php" method="POST">
+      <form id="form1" id="form1" action="contact-form-mail.php" method="POST">
         <label
           >Name
           <span class="small">Add your name</span>

@@ -55,3 +55,51 @@
 [25-Mar-2020 16:55:26 UTC] PHP Stack trace:
 [25-Mar-2020 16:55:26 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\portfolio.php:0
 [25-Mar-2020 16:55:26 UTC] PHP   2. include() C:\Users\mdruk\Local Sites\websites\app\public\portfolio.php:8
+[26-Mar-2020 17:24:18 UTC] PHP Notice:  Undefined index: call in C:\Users\mdruk\Local Sites\websites\app\public\contact-form-mail.php on line 5
+[26-Mar-2020 17:24:18 UTC] PHP Stack trace:
+[26-Mar-2020 17:24:18 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\contact-form-mail.php:0
+[26-Mar-2020 17:24:18 UTC] PHP Notice:  Undefined index: website in C:\Users\mdruk\Local Sites\websites\app\public\contact-form-mail.php on line 6
+[26-Mar-2020 17:24:18 UTC] PHP Stack trace:
+[26-Mar-2020 17:24:18 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\contact-form-mail.php:0
+[26-Mar-2020 17:24:18 UTC] PHP Notice:  Undefined index: priority in C:\Users\mdruk\Local Sites\websites\app\public\contact-form-mail.php on line 7
+[26-Mar-2020 17:24:18 UTC] PHP Stack trace:
+[26-Mar-2020 17:24:18 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\contact-form-mail.php:0
+[26-Mar-2020 17:24:18 UTC] PHP Notice:  Undefined index: type in C:\Users\mdruk\Local Sites\websites\app\public\contact-form-mail.php on line 8
+[26-Mar-2020 17:24:18 UTC] PHP Stack trace:
+[26-Mar-2020 17:24:18 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\contact-form-mail.php:0
+[26-Mar-2020 17:34:44 UTC] PHP Parse error:  syntax error, unexpected 'index' (T_STRING) in C:\Users\mdruk\Local Sites\websites\app\public\includes\navbar.php on line 8
+[26-Mar-2020 17:35:10 UTC] PHP Notice:  Undefined variable: page in C:\Users\mdruk\Local Sites\websites\app\public\includes\navbar.php on line 8
+[26-Mar-2020 17:35:10 UTC] PHP Stack trace:
+[26-Mar-2020 17:35:10 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\products.php:0
+[26-Mar-2020 17:35:10 UTC] PHP   2. include() C:\Users\mdruk\Local Sites\websites\app\public\products.php:8
+[26-Mar-2020 17:35:18 UTC] PHP Notice:  Undefined variable: page in C:\Users\mdruk\Local Sites\websites\app\public\includes\navbar.php on line 8
+[26-Mar-2020 17:35:18 UTC] PHP Stack trace:
+[26-Mar-2020 17:35:18 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans.php:0
+[26-Mar-2020 17:35:18 UTC] PHP   2. include() C:\Users\mdruk\Local Sites\websites\app\public\dietplans.php:8
+[26-Mar-2020 17:36:44 UTC] PHP Notice:  Undefined variable: page in C:\Users\mdruk\Local Sites\websites\app\public\includes\navbar.php on line 8
+[26-Mar-2020 17:36:44 UTC] PHP Stack trace:
+[26-Mar-2020 17:36:44 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans.php:0
+[26-Mar-2020 17:36:44 UTC] PHP   2. include() C:\Users\mdruk\Local Sites\websites\app\public\dietplans.php:8
+[26-Mar-2020 17:36:49 UTC] PHP Notice:  Undefined variable: page in C:\Users\mdruk\Local Sites\websites\app\public\includes\navbar.php on line 8
+[26-Mar-2020 17:36:49 UTC] PHP Stack trace:
+[26-Mar-2020 17:36:49 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\contact-us.php:0
+[26-Mar-2020 17:36:49 UTC] PHP   2. include() C:\Users\mdruk\Local Sites\websites\app\public\contact-us.php:8
+[26-Mar-2020 17:36:50 UTC] PHP Notice:  Undefined variable: page in C:\Users\mdruk\Local Sites\websites\app\public\includes\navbar.php on line 8
+[26-Mar-2020 17:36:50 UTC] PHP Stack trace:
+[26-Mar-2020 17:36:50 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans.php:0
+[26-Mar-2020 17:36:50 UTC] PHP   2. include() C:\Users\mdruk\Local Sites\websites\app\public\dietplans.php:8
+[26-Mar-2020 17:37:29 UTC] PHP Notice:  Undefined variable: page in C:\Users\mdruk\Local Sites\websites\app\public\includes\navbar.php on line 8
+[26-Mar-2020 17:37:29 UTC] PHP Stack trace:
+[26-Mar-2020 17:37:29 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\contact-us.php:0
+[26-Mar-2020 17:37:29 UTC] PHP   2. include() C:\Users\mdruk\Local Sites\websites\app\public\contact-us.php:8
+[26-Mar-2020 17:37:36 UTC] PHP Notice:  Undefined variable: page in C:\Users\mdruk\Local Sites\websites\app\public\includes\navbar.php on line 8
+[26-Mar-2020 17:37:36 UTC] PHP Stack trace:
+[26-Mar-2020 17:37:36 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\contact-us.php:0
+[26-Mar-2020 17:37:36 UTC] PHP   2. include() C:\Users\mdruk\Local Sites\websites\app\public\contact-us.php:8
+[26-Mar-2020 17:37:38 UTC] PHP Notice:  Undefined variable: page in C:\Users\mdruk\Local Sites\websites\app\public\includes\navbar.php on line 8
+[26-Mar-2020 17:37:38 UTC] PHP Stack trace:
+[26-Mar-2020 17:37:38 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\contact-us.php:0
+[26-Mar-2020 17:37:38 UTC] PHP   2. include() C:\Users\mdruk\Local Sites\websites\app\public\contact-us.php:8
+[26-Mar-2020 17:38:02 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\mdruk\Local Sites\websites\app\public\includes\navbar.php on line 8
+[26-Mar-2020 17:38:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\Users\mdruk\Local Sites\websites\app\public\includes\navbar.php on line 8
+[26-Mar-2020 17:39:47 UTC] PHP Parse error:  syntax error, unexpected '=' in C:\Users\mdruk\Local Sites\websites\app\public\includes\navbar.php on line 11

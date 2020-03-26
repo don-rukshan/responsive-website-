@@ -5,7 +5,7 @@
 </head>
 <body>
 <!--- Navigation -->
-	<?php include 'includes/navbar.php'; ?>
+	<?php  $page = 'products'; include 'includes/navbar.php'; ?>
 
 
 <link rel="stylesheet" href="products.css" />

@@ -5,7 +5,7 @@
 </head>
 <body>
 <!--- Navigation -->
-	<?php include 'includes/navbar.php'; ?>
+	<?php  $page = 'workouts'; include 'includes/navbar.php'; ?>
 
 
 <div class="row mt-5">
