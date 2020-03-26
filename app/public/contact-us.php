@@ -14,55 +14,40 @@
 </div>
 </div>
 
+ <div id="stylized" class="myform">
+	<link href="contact.css" rel="stylesheet">
+      <form id="form1" id="form1" action="mail.php" method="POST">
+        <label
+          >Name
+          <span class="small">Add your name</span>
+        </label>
+        <input type="text" name="name"/>
+        <label
+          >Email
+          <span class="small">Enter a Valid Email</span>
+        </label>
+        <input type="text" name="email" />
+        <label
+          >Phone
+          <span class="small">Add a Phone Number</span>
+        </label>
+        <input type="text" name="phone" />
+        <br />
+        <br />
 
-<!--- Start Jumbotron -->
-	<div class="jumbotron">
-		<div class="container">
-			<h2 class="text-center pt-5 pb-3">BUILT WITH THE BEST</h2>
-			<div class="row justify-content-center text-center">
-				<div class="col-10 col-md-4">
-					<div class="feature">
-						<img src="img/html5.png">
-						<h3>HTML5</h3>
-						<p>HTML5 is the fifth and current major version of the HTML standard, and subsumes XHTML.</p>
-					</div>
-				</div>
-				<div class="col-10 col-md-4">
-					<div class="feature">
-						<img src="img/bootstrap4.png">
-						<h3>BOOTSTRAP 4</h3>
-						<p>Bootstrap is an open-source front-end library with HTML and CSS based designs.</p>
-					</div>
-				</div>
-				<div class="col-10 col-md-4">
-					<div class="feature">
-						<img src="img/css3.png">
-						<h3>CSS3</h3>
-						<p>CSS3 is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.</p>
-					</div>
-				</div>
-			</div><!--- End Row -->
-		</div><!--- End Container -->
-	</div>
-	<!--- End Jumbotron -->
-
-	<!--- Two Column Section -->
-	<div class="container py-3">
-		<div class="row justify-content-center py-5">
-			<div class="col-lg-6">
-				<h3 class="pb-4">Learn to build Bootstrap websites</h3>
-				<p>The columns will automatically stack on top of each other when the screen is less than 992px wide.</p>
-				<p>Resize the browser window to see the effect. Responsive web design has become more important as the amount of mobile traffic now accounts for more than half of total internet traffic.</p><a class="btn btn-purple btn-lg" href="#">Bootstrap Course</a>
-			</div>
-			<div class="col-lg-6"><img class="img-fluid" src="img/responsive.png"></div>
-		</div>
-	</div>
-	<!--- End Two Column Section -->
-
-
-
-
-
+        <label
+          >Message
+          <span class="small">Type Your Message</span>
+        </label>
+        <textarea name="message" rows="6" cols="34"></textarea><br />
+        <button type="submit" value="Send" style="margin:20px 50px 5px 125px;">
+          Submit
+        </button>
+        <div class="spacer"></div>
+      </form>
+    </div>
+<div class="row mt-5">
+</div>
 
  <!--- Footer -->
 	<?php include 'includes/footer.php'; ?>

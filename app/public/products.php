@@ -13,10 +13,9 @@
 
    <!--hero-->
     <header class="hero">
-      <div class="banner">
-								<h1 class="banner-title col-12 text-center mt-1">our supplement collection</h1>  
-								<button class="banner-btn">shop now</button>
-      </div>
+      <div style="margin: 165px 50px 0px 500px">
+                <button class="banner-btn">shop now</button>
+</div>
     </header>
 				<!--end of hero-->
 				
@@ -39,7 +38,7 @@
               add to bag
             </button>
           </div>
-          <h3>Proteins</h3>
+          <h3 style="margin-top: 20px">Proteins</h3>
           <h4>$80 Upwards</h4>
         </article>
         <!--end of single product-->
@@ -57,7 +56,7 @@
               add to bag
             </button>
           </div>
-          <h3>Mass Gainers</h3>
+          <h3 style="margin-top: 20px">Mass Gainers</h3>
           <h4>$95 Upwards</h4>
         </article>
         <!--end of single product-->
@@ -75,7 +74,7 @@
               add to bag
             </button>
           </div>
-          <h3>Pre-Workouts</h3>
+          <h3 style="margin-top: 7px">Pre-Workouts</h3>
           <h4>$25 Upwards</h4>
         </article>
         <!--end of single product-->
@@ -93,7 +92,7 @@
               add to bag
             </button>
           </div>
-          <h3>Fat Burners</h3>
+          <h3 style="margin-top: 22px">Fat Burners</h3>
           <h4>$30 Upwards</h4>
         </article>
         <!--end of single product-->

@@ -11,8 +11,8 @@
 	<div class="carousel slide" data-ride="carousel">
 		<div class="carousel-inner">
 			<div class="carousel-item active"><img src="./img/hero-bcg.jpg"></div>
-			<div class="carousel-item"><img src="img/sky.png"></div>
-			<div class="carousel-item"><img src="img/bridge.png"></div>
+			<div class="carousel-item"><img src="img/1.jpg"></div>
+			<div class="carousel-item"><img src="img/3.jpg"></div>
 		</div>
 	</div>
 	<!--- End Image Slider -->
@@ -21,8 +21,8 @@
 	<div class="container">
 		<div class="row justify-content-center text-center">
 			<div class="col-10 py-5">
-				<h2>Complete Bootstrap Course</h2>
-				<p class="lead">Bootstrap is an open-source front-end library with HTML and CSS based designs. This website is built with HTML5, CSS3 and Bootstrap 4.</p><a class="btn btn-purple btn-lg" href="https://w3newbie.com/courses/" target="_blank">Complete Bootstrap Course</a>
+				<h2>“Success isn’t always about greatness. It’s about consistency. Consistent hard work gains success. Greatness will come.”</h2>
+				<p class="lead">Motivation is what gets you started. Habit is what keeps you going</p><a class="btn btn-purple btn-lg" href="https://www.lifefitness.com.au/20-fitness-motivation-quotes/" target="_blank">Check more Motivational Quotes</a>
 			</div>
 		</div>
 	</div>
@@ -35,7 +35,7 @@
 	<!--- Start Jumbotron -->
 	<div class="jumbotron">
 		<div class="container">
-			<h2 class="text-center pt-5 pb-3">BUILT WITH THE BEST</h2>
+			<h2 class="text-center pt-5 pb-3">CREATED WITH THE BEST INFO</h2>
 			<div class="row justify-content-center text-center">
 				<div class="col-10 col-md-4">
 					<div class="feature">

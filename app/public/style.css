@@ -1,5 +1,14 @@
 @import url("https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,500,700");
 
+:root {
+  --primaryColor: #f09d51;
+  --mainWhite: #fff;
+  --mainBlack: #222;
+  --mainGrey: #ececec;
+  --mainSpacing: 0.1rem;
+  --mainTransition: all 0.3s linear;
+}
+
 body {
   overflow-x: hidden;
   font-family: "IBM Plex Sans", sans-serif;
@@ -12,16 +21,21 @@ body {
 }
 
 .btn-purple {
-  border-color: #8366b0;
-  background-color: #8366b0;
-  color: white;
   margin: 1rem;
+  padding: 1rem 3rem;
+  text-transform: uppercase;
+  letter-spacing: var(--mainSpacing);
+  font-size: 1rem;
+  background: var(--primaryColor);
+  color: var(--mainBlack);
+  border: 1px solid var(--primaryColor);
+  transition: var(--mainTransition);
+  cursor: pointer;
 }
 .btn-purple:hover,
 .btn-purple:focus {
-  border-color: #594781;
-  background-color: #594781;
-  color: white;
+  background: transparent;
+  color: var(--primaryColor);
 }
 
 .feature img {
