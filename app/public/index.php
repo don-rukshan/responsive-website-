@@ -66,12 +66,41 @@
 	<!--- Two Column Section -->
 	<div class="container py-3">
 		<div class="row justify-content-center py-5">
-			<div class="col-lg-6">
-				<h3 class="pb-4">Learn to build Bootstrap websites</h3>
+			<div class="col-lg-8">
+				<h3 class="pb-4">Genuine Supplement Products</h3>
 				<p>The columns will automatically stack on top of each other when the screen is less than 992px wide.</p>
-				<p>Resize the browser window to see the effect. Responsive web design has become more important as the amount of mobile traffic now accounts for more than half of total internet traffic.</p><a class="btn btn-purple btn-lg" href="#">Bootstrap Course</a>
+				<p>Resize the browser window to see the effect. Responsive web design has become more important as the amount of mobile traffic now accounts for more than half of total internet traffic.</p><a class="btn btn-purple btn-lg" href="products.php">Check More</a>
 			</div>
-			<div class="col-lg-6"><img class="img-fluid" src="img/responsive.png"></div>
+			<div class="col-lg-4"><img class="img-fluid" src="img/responsive.png"></div>
+		</div>
+	</div>
+	<!--- End Two Column Section -->
+
+
+	<!--- Two Column Section -->
+	<div class="container py-3">
+		<div class="row justify-content-center py-5">
+			<div class="col-lg-8">
+				<h3 class="pb-4">Customized Workout Plans</h3>
+				<p>The columns will automatically stack on top of each other when the screen is less than 992px wide.</p>
+				<p>Resize the browser window to see the effect. Responsive web design has become more important as the amount of mobile traffic now accounts for more than half of total internet traffic.</p><a class="btn btn-purple btn-lg" href="workouts.php">Check More</a>
+			</div>
+			<div class="col-lg-4"><img class="img-fluid" src="img/responsive.png"></div>
+		</div>
+	</div>
+	<!--- End Two Column Section -->
+
+
+
+	<!--- Two Column Section -->
+	<div class="container py-3">
+		<div class="row justify-content-center py-5">
+			<div class="col-lg-8">
+				<h3 class="pb-4">Nutritious Dietary Plans</h3>
+				<p>The columns will automatically stack on top of each other when the screen is less than 992px wide.</p>
+				<p>Resize the browser window to see the effect. Responsive web design has become more important as the amount of mobile traffic now accounts for more than half of total internet traffic.</p><a class="btn btn-purple btn-lg" href="dietplans.php">Check More</a>
+			</div>
+			<div class="col-lg-4"><img class="img-fluid" src="img/responsive.png"></div>
 		</div>
 	</div>
 	<!--- End Two Column Section -->

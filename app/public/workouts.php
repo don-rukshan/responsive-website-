@@ -10,7 +10,7 @@
 
 <div class="row mt-5">
 <div class="col-12 text-center mt-5">
-<h2> Pricing </h2>
+<h2> Workout Plans </h2>
 </div>
 </div>
 
