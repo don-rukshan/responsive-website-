@@ -12,11 +12,11 @@
 
 
    <!--hero-->
-    <header class="hero">
+    <div class="hero">
       <div style="margin: 165px 50px 0px 500px">
                 <button class="banner-btn">shop now</button>
 </div>
-    </header>
+</div>
 				<!--end of hero-->
 				
     <!--products-->
@@ -35,7 +35,7 @@
             />
             <button class="bag-btn" data-id="1">
               <i class="fas fa-shopping-cart"></i>
-              add to bag
+              check more
             </button>
           </div>
           <h3 style="margin-top: 20px">Proteins</h3>
@@ -53,7 +53,7 @@
             />
             <button class="bag-btn" data-id="1">
               <i class="fas fa-shopping-cart"></i>
-              add to bag
+              check more
             </button>
           </div>
           <h3 style="margin-top: 20px">Mass Gainers</h3>
@@ -71,7 +71,7 @@
             />
             <button class="bag-btn" data-id="1">
               <i class="fas fa-shopping-cart"></i>
-              add to bag
+              check more
             </button>
           </div>
           <h3 style="margin-top: 7px">Pre-Workouts</h3>
@@ -89,7 +89,7 @@
             />
             <button class="bag-btn" data-id="1">
               <i class="fas fa-shopping-cart"></i>
-              add to bag
+              check more
             </button>
           </div>
           <h3 style="margin-top: 22px">Fat Burners</h3>
@@ -107,7 +107,7 @@
             />
             <button class="bag-btn" data-id="1">
               <i class="fas fa-shopping-cart"></i>
-              add to bag
+              check more
             </button>
           </div>
           <h3>Amino</h3>
@@ -126,7 +126,7 @@
             />
             <button class="bag-btn" data-id="1">
               <i class="fas fa-shopping-cart"></i>
-              add to bag
+              check more
             </button>
           </div>
           <h3 style="margin-top: 20px">Energy & Endurance</h3>
@@ -144,7 +144,7 @@
             />
             <button class="bag-btn" data-id="1">
               <i class="fas fa-shopping-cart"></i>
-              add to bag
+              check more
             </button>
           </div>
           <h3 style="margin-top: 20px">Creatine</h3>
@@ -162,7 +162,7 @@
             />
             <button class="bag-btn" data-id="1">
               <i class="fas fa-shopping-cart"></i>
-              add to bag
+              check more
             </button>
           </div>
           <h3 style="margin-top: 20px">BCCAs</h3>
@@ -182,7 +182,7 @@
             />
             <button class="bag-btn" data-id="1">
               <i class="fas fa-shopping-cart"></i>
-              add to bag
+              check more
             </button>
           </div>
           <h3 style="margin-top: 20px">Testosterone Boosters</h3>
@@ -201,7 +201,7 @@
             />
             <button class="bag-btn" data-id="1">
               <i class="fas fa-shopping-cart"></i>
-              add to bag
+              check more
             </button>
           </div>
           <h3 style="margin-top: 20px">Post Workout Recovery</h3>
@@ -219,7 +219,7 @@
             />
             <button class="bag-btn" data-id="1">
               <i class="fas fa-shopping-cart"></i>
-              add to bag
+              check more
             </button>
           </div>
           <h3 style="margin-top: 20px">Vitamins</h3>
@@ -238,7 +238,7 @@
             />
             <button class="bag-btn" data-id="1">
               <i class="fas fa-shopping-cart"></i>
-              add to bag
+              check more
             </button>
           </div>
           <h3 style="margin-top: 20px">Accessories</h3>

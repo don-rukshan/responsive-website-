@@ -15,46 +15,87 @@
 </div>
 
 
-<!--- Start Jumbotron -->
-	<div class="jumbotron">
-		<div class="container">
-			<h2 class="text-center pt-5 pb-3">BUILT WITH THE BEST</h2>
-			<div class="row justify-content-center text-center">
-				<div class="col-10 col-md-4">
-					<div class="feature">
-						<img src="img/html5.png">
-						<h3>HTML5</h3>
-						<p>HTML5 is the fifth and current major version of the HTML standard, and subsumes XHTML.</p>
-					</div>
-				</div>
-				<div class="col-10 col-md-4">
-					<div class="feature">
-						<img src="img/bootstrap4.png">
-						<h3>BOOTSTRAP 4</h3>
-						<p>Bootstrap is an open-source front-end library with HTML and CSS based designs.</p>
-					</div>
-				</div>
-				<div class="col-10 col-md-4">
-					<div class="feature">
-						<img src="img/css3.png">
-						<h3>CSS3</h3>
-						<p>CSS3 is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.</p>
-					</div>
-				</div>
-			</div><!--- End Row -->
-		</div><!--- End Container -->
+<!--- Two Column Section -->
+	<div class="container py-3">
+		<div class="row justify-content-center py-3">
+			<div class="col-lg-8">
+				<h3 class="pb-4">Genuine Supplement Products</h3>
+				<p>Dietary supplements are vitamins, minerals, herbs, and many other products. They can come as pills, capsules, powders, drinks, and energy bars. </p>
+				<p>Some supplements can play an important role in health. Supplements do not have to go through the testing that drugs do.</p><a class="btn btn-purple btn-lg" href="dietplans/dietplan1.php">Click Here</a>
+			</div>
+			<div class="col-lg-4"><img class="img-fluid" src="img/product-5.jpg"></div>
+		</div>
 	</div>
-	<!--- End Jumbotron -->
+	<!--- End Two Column Section -->
+
 
 	<!--- Two Column Section -->
 	<div class="container py-3">
-		<div class="row justify-content-center py-5">
-			<div class="col-lg-6">
-				<h3 class="pb-4">Learn to build Bootstrap websites</h3>
-				<p>The columns will automatically stack on top of each other when the screen is less than 992px wide.</p>
-				<p>Resize the browser window to see the effect. Responsive web design has become more important as the amount of mobile traffic now accounts for more than half of total internet traffic.</p><a class="btn btn-purple btn-lg" href="#">Bootstrap Course</a>
+		<div class="row justify-content-center py-3">
+			<div class="col-lg-4"><img class="img-fluid" src="img/workout.png"></div>
+			<div class="col-lg-8">
+				<h3 class="pb-4">Customized Workout Plans</h3>
+				<p>See the killer workouts that accompany thousands of articles on Fitness Lab. This includes muscle-building workouts for every body part, as well as workouts for fat loss, cardio, sports training, and plenty more! </p>
+				<p>The right cue can mean everything! Read through our step-by-step directions to ensure you're doing each workout correctly every time. </p><a class="btn btn-purple btn-lg" href="dietplans/dietplan2.php" style="margin-left:200px">Click Here</a>
 			</div>
-			<div class="col-lg-6"><img class="img-fluid" src="img/responsive.png"></div>
+			
+		</div>
+	</div>
+	<!--- End Two Column Section -->
+
+
+
+	<!--- Two Column Section -->
+	<div class="container py-3">
+		<div class="row justify-content-center py-3">
+			<div class="col-lg-8">
+				<h3 class="pb-4">Nutritious Dietary Plans</h3>
+				<p>A healthy diet may help to prevent certain long-term (chronic) diseases such as heart disease, stroke and diabetes. It may also help to reduce your risk of developing some cancers and help you to keep a healthy weight. This leaflet explains the principles of a healthy diet. It is general advice for most people. The advice may be different for certain groups of people, including pregnant women, people with certain health problems or those with special dietary requirements.</p><a class="btn btn-purple btn-lg" href="dietplans/dietplan3.php">Click Here</a>
+			</div>
+			<div class="col-lg-4"><img class="img-fluid" src="img/diet.jpg"></div>
+		</div>
+	</div>
+	<!--- End Two Column Section -->
+
+<!--- Two Column Section -->
+	<div class="container py-3">
+		<div class="row justify-content-center py-3">
+			<div class="col-lg-4"><img class="img-fluid" src="img/workout.png"></div>
+			<div class="col-lg-8">
+				<h3 class="pb-4">Customized Workout Plans</h3>
+				<p>See the killer workouts that accompany thousands of articles on Fitness Lab. This includes muscle-building workouts for every body part, as well as workouts for fat loss, cardio, sports training, and plenty more! </p>
+				<p>The right cue can mean everything! Read through our step-by-step directions to ensure you're doing each workout correctly every time. </p><a class="btn btn-purple btn-lg" href="dietplans/dietplan4.php" style="margin-left:200px">Click Here</a>
+			</div>
+			
+		</div>
+	</div>
+	<!--- End Two Column Section -->
+
+
+
+	<!--- Two Column Section -->
+	<div class="container py-3">
+		<div class="row justify-content-center py-3">
+			<div class="col-lg-8">
+				<h3 class="pb-4">Nutritious Dietary Plans</h3>
+				<p>A healthy diet may help to prevent certain long-term (chronic) diseases such as heart disease, stroke and diabetes. It may also help to reduce your risk of developing some cancers and help you to keep a healthy weight. This leaflet explains the principles of a healthy diet. It is general advice for most people. The advice may be different for certain groups of people, including pregnant women, people with certain health problems or those with special dietary requirements.</p><a class="btn btn-purple btn-lg" href="dietplans/dietplan5.php">Click Here</a>
+			</div>
+			<div class="col-lg-4"><img class="img-fluid" src="img/diet.jpg"></div>
+		</div>
+	</div>
+	<!--- End Two Column Section -->
+
+
+<!--- Two Column Section -->
+	<div class="container py-3">
+		<div class="row justify-content-center py-3">
+			<div class="col-lg-4"><img class="img-fluid" src="img/workout.png"></div>
+			<div class="col-lg-8">
+				<h3 class="pb-4">Customized Workout Plans</h3>
+				<p>See the killer workouts that accompany thousands of articles on Fitness Lab. This includes muscle-building workouts for every body part, as well as workouts for fat loss, cardio, sports training, and plenty more! </p>
+				<p>The right cue can mean everything! Read through our step-by-step directions to ensure you're doing each workout correctly every time. </p><a class="btn btn-purple btn-lg" href="dietplans/dietplan6.php" style="margin-left:200px">Click Here</a>
+			</div>
+			
 		</div>
 	</div>
 	<!--- End Two Column Section -->

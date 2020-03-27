@@ -17,7 +17,7 @@
 	</div>
 	<!--- End Image Slider -->
 
-	<!--- Complete Bootstrap Course -->
+	<!--- Motivational quotes bar -->
 	<div class="container">
 		<div class="row justify-content-center text-center">
 			<div class="col-10 py-5">
@@ -26,7 +26,7 @@
 			</div>
 		</div>
 	</div>
-	<!--- Complete Bootstrap Course -->
+	<!--- Motivational quotes bar -->
 
 
 

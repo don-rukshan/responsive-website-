@@ -8,11 +8,7 @@
   --mainSpacing: 0.1rem;
   --mainTransition: all 0.3s linear;
 }
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+
 body {
   color: var(--mainBlack);
   background: var(--mainWhite);
@@ -22,11 +18,9 @@ body {
 .navbar {
   position: sticky;
   top: 0;
-  height: 60px;
+  height: 75px;
   width: 100%;
-  display: flex;
   align-items: center;
-  background: rgb(231, 226, 221);
   z-index: 1;
 }
 .navbar-center {
@@ -57,11 +51,13 @@ body {
 /* --------------- End of Navbar ---------------- */
 /* --------------- Hero ---------------- */
 .hero {
-  min-height: calc(100vh - 60px);
+  min-height: calc(100vh - 75px);
   background: url("./img/hero-bcg1.png") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 100%;
+  height: 100%;
 }
 .banner {
   text-align: center;
