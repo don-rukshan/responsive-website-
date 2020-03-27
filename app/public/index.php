@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<?php include 'includes/head.php'; ?>
 </head>
+
 <body>
-<!--- Navigation -->
-	<?php  $page = 'home'; include 'includes/navbar.php'; ?>
+	<!--- Navigation -->
+	<?php $page = 'home';
+	include 'includes/navbar.php'; ?>
 
 	<!--- Image Slider -->
 	<div class="carousel slide" data-ride="carousel">
@@ -30,7 +33,7 @@
 
 
 
-<!--- Start Jumbotron -->
+	<!--- Start Jumbotron -->
 	<div class="jumbotron" style="background:black">
 		<div class="container">
 			<h2 class="text-center pt-5 pb-3" style="color:white">WHY ARE WE DIFFERENT ? </h2>
@@ -56,13 +59,15 @@
 						<p style="color:white">We always protect your privacy while providing our best service to make it convenient for you</p>
 					</div>
 				</div>
-			</div><!--- End Row -->
-		</div><!--- End Container -->
+			</div>
+			<!--- End Row -->
+		</div>
+		<!--- End Container -->
 	</div>
 	<!--- End Jumbotron -->
 
 
-	
+
 
 	<!--- Two Column Section -->
 	<div class="container py-3">
@@ -87,7 +92,7 @@
 				<p>See the killer workouts that accompany thousands of articles on Fitness Lab. This includes muscle-building workouts for every body part, as well as workouts for fat loss, cardio, sports training, and plenty more! </p>
 				<p>The right cue can mean everything! Read through our step-by-step directions to ensure you're doing each workout correctly every time. </p><a class="btn btn-purple btn-lg" href="workouts.php" style="margin-left:200px">Check More</a>
 			</div>
-			
+
 		</div>
 	</div>
 	<!--- End Two Column Section -->
@@ -110,10 +115,11 @@
 
 
 
-<!--- Footer -->
+	<!--- Footer -->
 	<?php include 'includes/footer.php'; ?>
 
-<!--- Scripts -->
-<?php include 'includes/scripts.php'; ?>
+	<!--- Scripts -->
+	<?php include 'includes/scripts.php'; ?>
 </body>
+
 </html>
