@@ -13,7 +13,7 @@
 
 	<div class="row mt-5">
 		<div class="col-12 text-center mt-5">
-			<h2> Workout Plans </h2>
+			<h2> <u>Workout Plans</u> </h2>
 		</div>
 	</div>
 

@@ -13,7 +13,7 @@
 
 	<div class="row mt-5">
 		<div class="col-12 text-center mt-5">
-			<h2> Diet Plans </h2>
+			<h2> <u>Diet Plans</u> </h2>
 		</div>
 	</div>
 
@@ -53,7 +53,7 @@
 				<h3 class="pb-4">Eating for Aesthetics: 10 Essential Rules to Get Muscle Beach Ready</h3>
 				<p>Mass monster? Nah...you'd rather be proportional and ripped, right? Here are the top 10 nutritional strategies you need to ensure you're on track to a lean, muscular physique.</p><a class="btn btn-purple btn-lg" href="dietplan3.php">Click Here</a>
 			</div>
-			<div class="col-lg-4"><img class="img-fluid" src="img/diet.jpg"></div>
+			<div class="col-lg-4"><img class="img-fluid" src="img/diet333.jpg"></div>
 		</div>
 	</div>
 	<!--- End Two Column Section -->
@@ -61,7 +61,7 @@
 	<!--- Two Column Section -->
 	<div class="container py-3">
 		<div class="row justify-content-center py-3">
-			<div class="col-lg-4"><img class="img-fluid" src="img/workout.png"></div>
+			<div class="col-lg-4"><img class="img-fluid" src="img/diet4.png"></div>
 			<div class="col-lg-8">
 				<h3 class="pb-4">Eat Like This And Grow Forever</h3>
 				<p>It's easy to get overwhelmed by all the complicated diets available these days. This simple but effective balanced-macro approach can serve as a foundation of a nutrition plan that's just right for you.</p><a class="btn btn-purple btn-lg" href="dietplan4.php" style="margin-left:200px">Click Here</a>
@@ -80,7 +80,7 @@
 				<h3 class="pb-4">A Dieter's Guide To Building Salads</h3>
 				<p>Salads are supposed to be your best friend when you're on a diet. But there are definitely ways to get this staple dish wrong. Master these four salad-building rules to keep your salad on your side!</p><a class="btn btn-purple btn-lg" href="dietplan5.php">Click Here</a>
 			</div>
-			<div class="col-lg-4"><img class="img-fluid" src="img/diet.jpg"></div>
+			<div class="col-lg-4"><img class="img-fluid" src="img/diet5555.png"></div>
 		</div>
 	</div>
 	<!--- End Two Column Section -->
@@ -89,7 +89,7 @@
 	<!--- Two Column Section -->
 	<div class="container py-3">
 		<div class="row justify-content-center py-3">
-			<div class="col-lg-4"><img class="img-fluid" src="img/workout.png"></div>
+			<div class="col-lg-4"><img class="img-fluid" src="img/diet50.jpg"></div>
 			<div class="col-lg-8">
 				<h3 class="pb-4">Your No-BS Approach To Effective Fat Loss</h3>
 				<p>Putting together a diet plan that works for you might seem way too complicated. This straightforward guide will show you how to create a plan with the right macros and calories to help you lose weight while maintaining your muscle mass and endurance. </p><a class="btn btn-purple btn-lg" href="dietplan6.php" style="margin-left:200px">Click Here</a>

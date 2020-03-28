@@ -110,14 +110,15 @@
 				</div>
 			</div>
 			<!--- End Two Column Section -->
+		</div>
+	</div>
 
 
+	<!--- Footer -->
+	<?php include 'includes/footer.php'; ?>
 
-			<!--- Footer -->
-			<?php include 'includes/footer.php'; ?>
-
-			<!--- Scripts -->
-			<?php include 'includes/scripts.php'; ?>
+	<!--- Scripts -->
+	<?php include 'includes/scripts.php'; ?>
 </body>
 
 </html>

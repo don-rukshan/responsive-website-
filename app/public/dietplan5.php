@@ -1,55 +1,80 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<?php include 'includes/head.php'; ?>
 </head>
+
 <body>
-<!--- Navigation -->
-	<?php  $page = 'products'; include 'includes/navbar.php'; ?>
+	<!--- Navigation -->
+	<?php $page = 'products';
+	include 'includes/navbar.php'; ?>
 
 
 
-<div class="row mt-5">
-<div class="col-12 text-center mt-5">
+	<div class="row mt-5">
+		<div class="col-12 text-center mt-5">
 
 
-<!--- Two Column Section -->
-	<div class="container py-3">
-		<div class="row justify-content-center">
-			<div class="col-lg-12">
-				<h2 class="pb-4">The Best Diet May Be No Diet At All</h2>
-				<h5 class="pb-4"> A 10-year study of almost 5,000 young adults found that those who managed weight the best didn't diet at all. Find out what helped them keep the weight off, and what made them put it on. </h5>
+			<!--- Two Column Section -->
+			<div class="container py-3">
+				<div class="row justify-content-center">
+					<div class="col-lg-12">
+						<h2 class="pb-4">A Dieter's Guide To Building Salads</h2>
+						<h5 class="pb-4"> Salads are supposed to be your best friend when you're on a diet. But there are definitely ways to get this staple dish wrong. Master these four salad-building rules to keep your salad on your side! </h5>
 
-				<div class="col-lg-12 pb-5"><img class="img-fluid" src="img/diet11.png"></div>
+						<div class="col-lg-12 pb-5"><img class="img-fluid" src="img/diet5.png"></div>
 
-				<p class="text-justify">For the past decade, a team of Finnish researchers has been following the weight-maintenance habits of more than 4,500 people in their mid-20s.[1] They found that, on average, about a quarter of the young men and women enrolled in the study maintained their weight over the 10 years. A far smaller percentage (3.8 percent of the men, 7.5 of the women) actually lost weight. Those who lost or maintained their body weight shared two things in common: they didn't miss meals and they had no history of dieting.</p>
-				
-				<p class="text-justify"> Conversely, the most common factors associated with weight gain among the women were having two or more children, consuming sugary drinks, skipping meals, a history of dieting, and not being satisfied with their life. The young men who gained weight also skipped meals and had a history of dieting, as well as a history of smoking. </p>
+						<p class="text-justify">Whether you're dining out or putting together a healthy snack, salad seems like a safe bet. But when you start piling on the bacon, hardboiled egg, nuts, seeds, and croutons—all smothered in a rich creamy dressing—what started out as a 250-calorie side dish turns into a 1,000-calorie mega meal. </p>
 
-				<div class="col-lg-12 pb-5"><img class="img-fluid" src="img/diet111.png"></div>
+						<p class="text-justify"> Sure, there's a place in life for a decadent Cobb, but if you're looking to lose weight and plan on eating salad regularly, you're better off building your meals around a lower-calorie but still-delicious salad.</p>
 
-<h4 class="pb-4 text-left">How to eat healthfully without dieting</h4>
-				<p class="text-justify"> One increasingly popular alternative to normal dieting is a "flexible dieting" approach called "if it fits your macros," aka IIFYM. The idea behind this approach is to eat foods that help you meet your daily nutritional goals, but in a wide variety of ways so that your foods aren't heavily restricted and you don't feel like you're on a diet. If eating meals regularly is a challenge for you, it may help to understand what's known as your food personality. Are you a "casual easy-goer," an "insatiable eater," or a "professional grazer" type? The more you know about how you tend to eat, the better you can match your daily meals with your food personality, and still consume the calories and nutrition you need. </p>
+						<p class="text-justify pb-4">Memorize these four rules to keep the nutrients in, and the extra calories out, of your next salad. </p>
 
-				<div class="col-lg-12 pb-5"><img class="img-fluid" src="img/diet1.png"></div>
+						<h4 class="pb-4 text-left">Rule 1: Add Plenty of Color</h4>
 
-<h4 class="pb-4 text-left">Get the basic facts—and some delicious recipes</h4>
-				<p class="text-justify pb-5"> The backbone of any successful eating plan is understanding how many calories you need every day and your ideal ratio among the macronutrients fat, protein, and carbohydrate. Visit our calculator page to find out some of these basic numbers for you, and check out our database of more than 900 healthy recipes for breakfast, lunch, dinner, snacks, and desserts!</p>
-				
+						<p class="text-justify pb-4">Vegetables are rich in essential nutrients including vitamins A, C, E, and K, iron, magnesium, and zinc. But each veggie has its own unique nutrient profile, so you need variety in your salad. To make sure you're getting all the essential nutrients, add at least three different colors of vegetables. </p>
 
-				<h6 class="pb-2 text-left" style="color:black">References :</h6>
-				<p class="text-justify" style="margin-left: 20px">TKärkkäinen, U., Mustelin, L., Raevuori, A., Kaprio, J., & Keski-Rahkonen, A. (2018). Successful weight maintainers among young adults—A ten-year prospective population study. Eating Behaviors.</p>
+						<div class="col-lg-12 pb-5"><img class="img-fluid" src="img/diet55.png"></div>
+
+
+						<p class="text-justify pb-3"> The darker the green, the more nutrient-dense the vegetable tends to be. Iceberg lettuce? Yes, technically it's a vegetable. But it has about as much nutrition as piece of paper. Think spinach, romaine, or kale instead. Romaine may seem like the outlier there, but it's actually quite nutrient-rich and healthy! </p>
+
+
+
+						<h4 class="pb-4 text-left">Rule 2: Two or Fewer Non-Veggie Toppings</h4>
+						<p class="text-justify">Salads provide a rich supply of nutrients, are low-calorie, and when made correctly, can be filling too. Yes, they're delicious when topped with cheese, nuts, and fruit as well. But once you take the focus away from the veggies, things can quickly get out of hand.</p>
+
+						<p class="text-justify">Sorry, cheese crumbs and bacon bits have lots of calories—even when they're sitting on a bed of greens. Better to stick to 1-2 moderate-calorie toppings. Pick two of these three categories: a nut or seed, a fruit, or a cheese. Become an expert at mixing and matching. </p>
+
+						<div class="col-lg-12 pb-3"><img class="img-fluid" src="img/diet555.png"></div>
+
+						<h4 class="pb-4 text-left">Rule 3: Choose an Oil-Based or Yogurt-Based Dressing</h4>
+						<p class="text-justify">Dieters tend to think only oil and vinegar dressing is allowed. And to be clear, these are great! But you can branch out, too. Other dressings not only taste great but help your body absorb the fat-soluble vitamins found in vegetables themselves.</p>
+
+						<p class="text-justify"> When possible, go oily rather than creamy. Canola or olive-oil-based dressings are rich in healthy, unsaturated fats. Cream-based dressings, on the other hand, are usually high in calories and can contain some questionable saturated and trans fats. The exception to the "creamy equals fat" rule is Greek yogurt-based dressings, which is usually very low in fat and high in protein. </p>
+
+						<p class="text-justify pb-3">Fruit-based vinaigrettes are low in fat, but can be high in sugar. The same goes for something like honey mustard, where sweetness is the dominant flavor. Avoid these if you can, or make your own non-sweet versions like a Dijon vinaigrette, and then consider putting some simple fruit in your salad instead, to add a touch of sweetness. </p>
+
+
+						<h4 class="pb-4 text-left">Rule 4: Always Pair Your Salad With a Protein</h4>
+						<p class="text-justify">Protein is a dieter's best friend, giving you lots of nutrients and helping you feel full, so don't forget to include protein in every meal. Or even in every salad! Add slices of grilled chicken, steak, salmon, shrimp, or tuna to any of the fruit-and-nut combinations above. You can also branch out and try something like a healthy taco salad with ground meat, beans, and dressed with yogurt and salsa. Or start your meal with a large salad, then enjoy your protein as part of your main dish. </p>
+
+						<div class="col-lg-12 pb-5"><img class="img-fluid" src="img/diet5555.png"></div>
+
+					</div>
+				</div>
 			</div>
+			<!--- End Two Column Section -->
+
 		</div>
 	</div>
-	<!--- End Two Column Section -->
 
-
-
- <!--- Footer -->
+	<!--- Footer -->
 	<?php include 'includes/footer.php'; ?>
 
-<!--- Scripts -->
-<?php include 'includes/scripts.php'; ?>
+	<!--- Scripts -->
+	<?php include 'includes/scripts.php'; ?>
 </body>
+
 </html>
