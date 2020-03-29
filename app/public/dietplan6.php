@@ -7,7 +7,7 @@
 
 <body>
 	<!--- Navigation -->
-	<?php $page = 'products';
+	<?php $page = 'dietplans';
 	include 'includes/navbar.php'; ?>
 
 
