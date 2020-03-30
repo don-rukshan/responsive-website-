@@ -20,128 +20,106 @@
    <div class="container py-3">
     <div class="row justify-content-center">
      <div class="col-lg-12">
-      <h2 class="pb-4">Eating for Aesthetics: 10 Essential Rules to Get Muscle Beach Ready</h2>
-      <h5 class="pb-4"> Mass monster? Nah...you'd rather be proportional and ripped, right? Here are the top 10 nutritional strategies you need to ensure you're on track to a lean, muscular physique.</h5>
-
-      <div class="col-lg-12 pb-5"><img class="img-fluid" src="img/diet3.png"></div>
-
-      <p class="text-justify">Anyone can eat enough to get big. But if you want to add the kind of size that looks right when you're strolling down the boardwalk by the Muscle Beach Gym in Venice—where some of the greatest bodybuilders of all time have looked their best—then just "big" won't cut it.</p>
-
-      <p class="text-justify"> Anyone can eat enough to get big. But if you want to add the kind of size that looks right when you're strolling down the boardwalk by the Muscle Beach Gym in Venice—where some of the greatest bodybuilders of all time have looked their best—then just "big" won't cut it. </p>
-
-      <h4 class="pb-4 text-left">1. Know Your Magic Number</h4>
-
-      <p class="text-justify"> Are you putting on the wrong kind of weight when you want to be losing it instead? Or maybe you're stuck in neutral? Either way, the problem may be that your calories in versus calories out balance is out of whack. To get on the right track, multiply your body weight by 16-18 to get your ideal growth range. According to this formula, a 160-pound guy should be taking in 2,560-2,880 calories per day (160 pounds multiplied by 16 and then by 18). For best results, those calories should be spread among 5-7 meals, one every 2-4 hours. If you need to drop a few pounds, multiply your body weight by 12. If maintenance is the aim, you'll want to fall within the 13-15 range. </p>
-
-      <div class="col-lg-12 pb-5"><img class="img-fluid" src="img/diet33.png"></div>
-
-      <p class="text-justify pb-5"> When you plan the meals to hit these numbers, keep in mind that not all calories are created equal. If they were, we could all live on ice cream and Ho Hos while we sculpt our bodies. In reality, you hit those numbers by taking a hammer and chisel to your diet to trim away the junk. Replace empty calories with a proper ratio of 30 percent protein (see number 3 below), 50-60 percent carbs (mainly whole grains, fruits and vegetables, as explained in number 5), and 10-20 percent high-quality fats (see number 6).</p>
-
-
-      <h4 class="pb-4 text-left">2. Avoid the Extremes: Make Small Tweaks</h4>
-
-      <p class="text-justify">Yeah, you really can gain or lose too much weight too fast. If you're gaining more than 2-3 pounds a week, it's probably mostly body fat. If you're dropping more than 2-3 pounds a week, it's probably a lot of muscle tissue.
-
-      </p>
-      <p class="text-justify pb-5">If, after three weeks, you're not moving toward your target at a steady pace, adjust your calorie level up or down by 200-400 calories per day. Maintain your current macronutrient ratios, and stick with that new level for another three weeks. Keep tweaking your macros until the scale is moving steadily in the right direction.</p>
-
-
-      <h4 class=" pb-4 text-left">3. Include Protein with Every Meal</h4>
-
-      <p class="text-justify">Developing a jaw-dropping, well-balanced physique comes down to protein or, more specifically, to the amino acids found in complete proteins such as meat, fish, and dairy.
-
-      </p>
-      <p class="text-justify">For protein I eat a lot of fish, mostly tuna, eggs, milk, chicken, sometimes red meat, oats, nuts seeds and kernels," says Muscle Beach-sponsored athlete Ike Catcher.</p>
-
-      <div class="col-lg-12 pb-5"><img class="img-fluid" src="img/diet333.jpg"></div>
-
-      <p class="text-justify pb-5">"Lean meats are one of your body's greatest fat-burning sources, helping to jump-start your metabolism and build healthy muscle tissue while helping you feel full and satiated," says Tiffani Bachus, RD., co-author of "No Excuses! 50 Healthy Ways to Rock Breakfast." "Approximately 15-20 percent of your daily calories should come from lean protein such as chicken and turkey breast, fish, lean cuts of beef including loin and round cuts, and egg whites.</p>
-
-
-      <h4 class="pb-4 text-left">4. Supplement with Shakes</h4>
-
-      <p class="text-justify pb-5">If you're having trouble squeezing enough of those filling foods in your meals, make protein shakes your secret weapon. Add a 20-25-gram protein shake to your meal plan once or twice a day to hit your numbers without feeling stuffed. Muscle Beach Nutrition's 100% All-Pro will do the trick. </p>
+      <h2 class="pb-4">Off-Season Powerlifting Training 101 </h2>
+      <h5 class="pb-4"> When the season hits, you're going to be lifting hot and heavy. Use those off months to take a neuromuscular holiday while still building a massive foundation for the contests to come.</h5>
 
 
 
-      <h4 class="pb-4 text-left">5. Never Fear Carbs—At Least Not the Good Carbs</h4>
+      <p class="text-justify">Every time I step onto the powerlifting platform, I feel invincible! The world slows down, the crowd goes mute, and I am a heat-seeking missile that destroys any weight loaded on the barbell. That's why it's so easy to get caught up in competition after competition, always chasing the next PR. Powerlifting transports you to a Superman-like state of mind that's as addictive as any drug. But, like any addiction, you need to know the downside.</p>
 
-      <p class="text-justify">If you’ve never tried to train hard and add significant amounts of muscle, "carbs" has maybe become a dirty word to you. That's a mistake. If you train intensely, you need carbs—and lots of them. Following a low-carb diet for too long can leave you feeling depleted and potentially catabolic, shedding muscle mass instead of body fat. Of course, carbohydrates cover a wide range of foods, and not all of them are bodybuilding-friendly.</p>
+      <p class="text-justify">The problem with chasing your powerlifting PR all the time is that it can land you in a state of muscular fatigue, mental burnout, and overtraining—and lead to career-ending injuries.</p>
 
-      <p class="text-justify">"Vegetables are a great source of carbs," says Bachus. "They're nutrient rich and high in fiber so it takes your body longer to break down, absorb, and digest them, which helps you feel full for longer. Plus, antioxidants found in many vegetables support good health and disease prevention."
-      </p>
+      <p class="text-justify"> How, as a powerlifter, can you minimize the risk of burnout and severe injury while still prepping for the season to come? You do it by getting serious about regular off-season powerlifting training. </p>
 
-      <p class="text-justify">Carbs can be split into two basic categories: simple and complex. Simple carbs include foods such as candy, fruit juice, cereals, pasta, cakes, cookies, and white bread. Your body can break down these kinds of carbs quickly, but that can cause your blood sugar levels to spike, leaving you feeling shaky, dizzy, and drained after the subsequent crash. For the most part, you'll want to limit the amount of simple carbs you consume—except for right after your workout (see number 7).
-      </p>
+      <h4 class="pb-4 text-left">Prepping for the prep</h4>
 
-      <p class="text-justify">Instead, choose complex carbs that break down more slowly in the body, giving you more sustained energy and avoiding those spikes in your blood sugar level.
-      </p>
+      <p class="text-justify"> Too many powerlifters ignore off-season training, mistakenly thinking people do it just to stay loose and avoid injury, not to build muscle. Hell, no! Even if you don't care about your long-term health, I guarantee you'll be much stronger by continuing to practice year-round.</p>
 
-      <p class="text-justify pb-5">“My go-to sources for complex carbs are sprouted Ezekiel bread in the morning and sweet potatoes with my evening meals,” says Gavin McHale, a Muscle Beach Nutrition-sponsored athlete.</p>
+      <p class="text-justify"> "Off-season" refers to the time during your training year when you are not training for a specific contest. That time might be right after competing in a meet, or it could be up to 10 weeks before your next event. The intervals can last 4-12 weeks. If you want to be able to stay in the game for the long term, you should make sure you're "off" for at least 16 weeks a year.</p>
+
+      <p class="text-justify"> During the season, you spend your time prepping for the next meet. As you train, you have one objective: Prepare yourself to demonstrate your greatest strength on one single day. This kind of prep requires very heavy weights and extremely specific workouts.</p>
+
+      <div class="col-lg-12 pb-5"><img class="img-fluid" src="img/work1.png"></div>
+
+      <p class="text-justify"> Your off-season prep, on the other hand, is all about setting you up for great meet prep and, ultimately, a huge PR total. These are different goals requiring a different kind of training.</p>
 
 
-      <h4 class="pb-4 text-left">6. Separate Fat from Fiction</h4>
+      <h4 class="pb-4 text-left">A chance to switch out your usual program</h4>
 
-      <p class="text-justify">Like carbs, fat comes in a couple varieties. The bad-for-you fats include saturated or trans fats like those found in butter, cheese, ice cream, and marbled red meat.
+      <p class="text-justify">A lot of powerlifters think that their current competition weight class is the class they'll be in until they hang up their trunks. With diligent off-season training, though, you can add muscle mass, increase your strength potential, and have a good shot at moving up a rung or two.</p>
+
+      <p class="text-justify">You increase muscle mass by increasing training volume. That's why seasoned veterans use the off-season to take a break from the big three, increase their volume, and focus on exercise variants that will provide new muscle stimulus, prevent overuse injuries, and strengthen weak points.</p>
+
+      <p class="text-justify">For example, if you were in meet prep, you might lift 90 percent of your 1RM for a couple sets of 3 squat reps with an 8-minute rest between sets. During the off season, the idea is to use about 70 percent of your 1RM, but then do 5 sets of 10 reps of front squats or belt squats with a 2-minute rest.</p>
+
+      <p class="text-justify pb-4">In addition to the hypertrophic benefits of this greater volume, you also get a chance to improve your technique and increase your work capacity.</p>
+
+
+      <h4 class=" pb-4 text-left">Slight variations can lead to big gains</h4>
+
+      <p class="text-justify">After pushing the big three lifts aside for the off season, many powerlifters jump on exercise variety too enthusiastically. The idea is to stick with the main exercises you'll do onstage, but do variations of them. Here are some of my favorite variations:</p>
+
+      <ul class="text-justify">
+       <li><b>Squats:</b> Olympic pause squats, front squats, Hatfield overload squats, safety squats, belt squats, cambered bar squats</li>
+       <li><b>Bench Press:</b> Close-grip bench press, wide-grip bench press, neutral-grip bench press barbell, dumbbell bench press, incline press, decline press</li>
+       <li><b>Deadlifts:</b> Strong opposite-stance deadlifts (i.e., if you normally go sumo, go conventional, and vice versa), trap bar deadlifts, deficit deadlifts, block pulls, Romanian deadlifts</li>
+      </ul>
+
+      <p class="text-justify">The off-season also provides an opportunity to include strongman training, which can help you build explosive strength, powerful hip extensors, grip strength, work capacity, and mental toughness. Strongman training carries over greatly to squats and deadlifts. Some of the most effective transferable events include farmer's walks, yokes, sled drags, and just about any carrying exercise.</p>
+
+      <div class="col-lg-12 pb-5"><img class="img-fluid" src="img/work11.png"></div>
+
+      <h4 class="pb-4 text-left">Build work capacity now to serve yourself later</h4>
+
+      <p class="text-justify">Because it doesn't involve training at 90 percent of your 1RM, week in, week out, the off-season gives your body a much-needed break—even as you increase your work capacity. It's a time to ease up a bit on your neuromuscular system while still building strength.</p>
+
+      <p class="text-justify pb-4">By cutting back on the big weights in the off-season, you'll properly position yourself to peak for a powerlifting meet. A powerlifting peaking cycle starts with a focus on higher volume and more general movement and ends at the meet with low volume and very specific movement. With good off-season training, you're ready to blow right past the high-volume stage of the cycle and focus on proper lift execution.</p>
+
+      <h4 class="pb-4 text-left">The perfect time to strengthen your weak points</h4>
+
+      <p class="text-justify">Meet prep is about hitting your best lifts on a preplanned date. As such, it's not the best time to take a step back and focus on correcting weaknesses. The off-season, on the other hand, is tailor-made to help you bring up those weaknesses while retaining your strengths.</p>
+
+      <p class="text-justify">If you have any of these weaknesses, try these primary and/or accessory exercises:
       </p>
 
-      <p class="text-justify pb-5">Good-for-you fats contain monounsaturated and polyunsaturated fat, which includes the essential fatty acids omega-3 and omega-6. These fats are healthier and can even reduce your risk of disease and inflammation, a welcome benefit for those who train hard. Good sources for good fats include fish, seeds and nuts, and oils such as olive, canola, sunflower, and corn.</p>
+      <ul class="text-justify">
+       <li><b>Weak quads:</b> front squats, Hatfield overload squats, backwards sled drag, leg presses</li>
+       <li><b>Weak chest: </b> dumbbell press variations (decline, flat, incline), chain flyes, cable work, wide-grip benches</li>
+       <li><b>Weak shoulders: </b> overhead press variations, all sorts of dumbbell raises, cable work</li>
+       <li><b>Weak upper back:</b> any chest-supported row variation, lat pull-downs, chin-up variations</li>
+       <li><b>Weak triceps:</b> close-grip benches, dips, extension variations</li>
+       <li><b>Weak biceps:</b> hammer curls, incline dumbbell curls, Gironda perfect curls</li>
+      </ul>
 
-      <h4 class="pb-4 text-left">7. Don't Let a Workout Go to Waste</h4>
+      <div class="col-lg-12 pb-5"><img class="img-fluid" src="img/work111.png"></div>
 
-      <p class="text-justify">If you're serious about transforming your body, you have to get your nutrition right. Period. Before you hit the gym, set the stage for success by consuming an array of nutrients, including L-citrulline, arginine, beta-alanine, and creatine, all of which can to enhance growth, strength, and endurance. The best pre-workout products deliver a mix of these.
+      <h4 class="pb-4 text-left">Guidelines for off-season training</h4>
+
+      <p class="text-justify">Off-season breaks from competition are a golden opportunity for you to lower the load and up the reps, hone your technique, and use exercise variations to provide new stimulus for new muscle growth. In general, during the off-season you want to:
       </p>
 
-      <div class="col-lg-12 pb-5"><img class="img-fluid" src="img/diet3333.jpg"></div>
+      <ul class="text-justify pb-4">
+       <li>
+        Keep rest intervals on heavy compound movements to less than 3 minutes.
+       </li>
+       <li>
+        Keep rest intervals on accessory movements to less than 90 seconds.
+       </li>
+       <li>
+        Work on your weak points.
+       </li>
+      </ul>
 
-      <p class="text-justify pb-5">After your workout, immediately consume 20-30 grams of whey protein, along with amino acids and a fast-acting carb. Post-workout is the one time of day when sugar or candy is not such a bad thing, because the carbs in them help deliver protein to your recovering muscle tissue.
+      <h4 class="pb-4 text-left">This stuff is for real!</h4>
+
+      <p class="text-justify">Before I started working with James Strickland in 2016, he missed 600 pounds on the bench press for eight meets in a row. Fast forward to 2017. Strickland had the biggest bench press in the world for his weight class. He hit 661 pounds then, and is now well on his way to setting the all-time world record for the 308-pound weight class. What changed? I got him started on off-season training.
       </p>
 
-      <h4 class="pb-4 text-left">8. Beware of Hidden Sodium</h4>
+      <p class="text-justify">Strickland isn't the only powerlifter who's seen improvements like this. I've worked with a lot of guys who went from average to good, and then from good to great, after I implemented an off-season program for them.</p>
 
-      <p class="text-justify">Like carbohydrates, sodium has gotten a bad rap for years. The line of thinking has been that consuming too much sodium causes the body to retain too much water, which can lead to increased blood pressure, a risk factor for heart disease, stroke, and kidney disease. Some bodybuilders have even gone on super-low-sodium diets thinking they were avoiding the kind of water-swollen physiques that don’t do well at shows.</p>
 
-      <p class="text-justify">
-       Several studies have shown that consuming less sodium can lower your blood pressure, but not by much at all.[1,2,3] The fact is, it's important to get enough sodium in your diet. The best nutritional approach is to be aware of your sodium intake and aim for levels that are neither too high nor too low, which can sometimes be tricky.</p>
-
-      <p class="text-justify">
-       "The problem is that sodium is often hidden in foods advertised as low-fat or non-fat," Bachus says.</p>
-
-      <p class="text-justify pb-5">
-       These foods also tend to be highly processed. Check your labels and stick with lean, clean unprocessed foods like green vegetables, fresh meats, and unprocessed grains whenever possible. Avoid canned foods, soups, and frozen entrees, which tend to be high in sodium content.
+      <p class="text-justify">So what are you waiting for? Get on the gains train by implementing an off-season powerlifting program of your own.
       </p>
-
-      <h4 class="pb-4 text-left">9. Stay Hydrated!</h4>
-
-      <p class="text-justify">Dehydration is a more common problem than you might realize, and one that can directly influence the way your body looks. A dehydration level of just 1-2 percent of body weight can compromise your work capacity and exercise performance, really screwing up your workouts and leaving your muscles looking flat.</p>
-
-      <p class="text-justify">
-       Symptoms of severe dehydration are pretty obvious: muscle cramps, lightheadedness, and heart palpitations. Signs of minor dehydration, however, can be harder to spot. To reduce the risk, maintain a steady fluid intake all day long and keep an eye out for darker-than-normal urine, which can signal dehydration. If you use thirst as a signal that you need to drink more fluids, you've probably waited too long.</p>
-
-      <p class="text-justify">
-       You may have heard that any liquid, even caffeinated beverages, can help meet your body's hydration needs. That's true to an extent, but your best bet is to drink good old pure water, free from calories, coloring, and additives.</p>
-
-      <p class="text-justify pb-5">
-       "To arrive at a rough idea of the amount of water you should drink every day, divide your weight in half. That's about how many ounces of water you should consume each day," Bachus says. "If you weigh 180 pounds, consume approximately 90 ounces, or a little more than 11 cups, of water a day. Don't worry about drinking too much water. Your body will just flush the excess, along with excess sodium."</p>
-
-      <h4 class="pb-4 text-left">10. If You Booze, You Lose</h4>
-
-      <p class="text-justify">Alcohol is counterproductive when improved aesthetics is your goal. In fact, it does a kind of "double whammy" to your body, not only reducing your body's fat-burning ability, but actually increasing your fat storage. So, if you’re one of those people who likes to celebrate a massive workout with a bottle of beer, it's time to drop that little luxury.</p>
-
-      <p class="text-justify">
-       "Your body converts the majority of the alcohol you consume into energy to fuel your body," Bachus explains. That may sound like good news, but it means your body is burning alcohol instead of stored body fat. Worse still, any alcohol your body doesn't burn ends up being stored as fat. "</p>
-
-      <p class="text-justify pb-5">
-       And then there is the hard truth that if you've had too much to drink, your better judgment may crawl into the back seat as you pass that all-night diner on the way home. If you really want that sculpted body you dream about, keep your eyes on the road ahead and drive on by those seven-egg cheese omelets and cinnamon rolls.</p>
-
-      <h6 class="pb-2 text-left" style="color:black">References :</h6>
-      <ol class="text-justify">
-       <li>Taylor, R. S., Ashton, K. E., Moxham, T., Hooper, L., & Ebrahim, S. (2011). Reduced dietary salt for the prevention of cardiovascular disease. Cochrane Database of Systematic Reviews, 7(7).</li>
-       <li>Stolarz-Skrzypek, K., Kuznetsova, T., Thijs, L., Tikhonoff, V., Seidlerová, J., Richart, T., ... & European Project on Genes in Hypertension (EPOGH) Investigators. (2011). Fatal and nonfatal outcomes, incidence of hypertension, and blood pressure changes in relation to urinary sodium excretion. Jama,305(17), 1777-1785.</li>
-       <li>Alderman, M. H., Cohen, H., & Madhavan, S. (1998). Dietary sodium intake and mortality: the National Health and Nutrition Examination Survey (NHANES I). The Lancet, 351(9105), 781-785.</li>
-
-      </ol>
-
 
      </div>
     </div>

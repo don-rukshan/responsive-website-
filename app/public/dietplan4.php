@@ -10,11 +10,8 @@
 	<?php $page = 'dietplans';
 	include 'includes/navbar.php'; ?>
 
-
-
 	<div class="row mt-5">
 		<div class="col-12 text-center mt-5">
-
 
 			<!--- Two Column Section -->
 			<div class="container py-3">

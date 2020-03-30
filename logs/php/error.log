@@ -679,3 +679,97 @@
 [29-Mar-2020 12:42:51 UTC] PHP Stack trace:
 [29-Mar-2020 12:42:51 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplan1.php:0
 [29-Mar-2020 12:42:51 UTC] PHP   2. include() C:\Users\mdruk\Local Sites\websites\app\public\dietplan1.php:10
+[30-Mar-2020 04:30:32 UTC] PHP Warning:  include(includes/navbar.php): failed to open stream: No such file or directory in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php on line 11
+[30-Mar-2020 04:30:32 UTC] PHP Stack trace:
+[30-Mar-2020 04:30:32 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:30:32 UTC] PHP Warning:  include(): Failed opening 'includes/navbar.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php on line 11
+[30-Mar-2020 04:30:32 UTC] PHP Stack trace:
+[30-Mar-2020 04:30:32 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:31:14 UTC] PHP Warning:  include(includes/navbar.php): failed to open stream: No such file or directory in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php on line 11
+[30-Mar-2020 04:31:14 UTC] PHP Stack trace:
+[30-Mar-2020 04:31:14 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:31:14 UTC] PHP Warning:  include(): Failed opening 'includes/navbar.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php on line 11
+[30-Mar-2020 04:31:14 UTC] PHP Stack trace:
+[30-Mar-2020 04:31:14 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:31:26 UTC] PHP Warning:  include(includes/navbar.php): failed to open stream: No such file or directory in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php on line 11
+[30-Mar-2020 04:31:26 UTC] PHP Stack trace:
+[30-Mar-2020 04:31:26 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:31:26 UTC] PHP Warning:  include(): Failed opening 'includes/navbar.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php on line 11
+[30-Mar-2020 04:31:26 UTC] PHP Stack trace:
+[30-Mar-2020 04:31:26 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:31:32 UTC] PHP Notice:  Undefined variable: page in C:\Users\mdruk\Local Sites\websites\app\public\includes\navbar.php on line 8
+[30-Mar-2020 04:31:32 UTC] PHP Stack trace:
+[30-Mar-2020 04:31:32 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:31:32 UTC] PHP   2. include() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:11
+[30-Mar-2020 04:31:32 UTC] PHP Notice:  Undefined variable: page in C:\Users\mdruk\Local Sites\websites\app\public\includes\navbar.php on line 11
+[30-Mar-2020 04:31:32 UTC] PHP Stack trace:
+[30-Mar-2020 04:31:32 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:31:32 UTC] PHP   2. include() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:11
+[30-Mar-2020 04:31:32 UTC] PHP Notice:  Undefined variable: page in C:\Users\mdruk\Local Sites\websites\app\public\includes\navbar.php on line 14
+[30-Mar-2020 04:31:32 UTC] PHP Stack trace:
+[30-Mar-2020 04:31:32 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:31:32 UTC] PHP   2. include() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:11
+[30-Mar-2020 04:31:32 UTC] PHP Notice:  Undefined variable: page in C:\Users\mdruk\Local Sites\websites\app\public\includes\navbar.php on line 17
+[30-Mar-2020 04:31:32 UTC] PHP Stack trace:
+[30-Mar-2020 04:31:32 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:31:32 UTC] PHP   2. include() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:11
+[30-Mar-2020 04:31:32 UTC] PHP Notice:  Undefined variable: page in C:\Users\mdruk\Local Sites\websites\app\public\includes\navbar.php on line 20
+[30-Mar-2020 04:31:32 UTC] PHP Stack trace:
+[30-Mar-2020 04:31:32 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:31:32 UTC] PHP   2. include() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:11
+[30-Mar-2020 04:31:40 UTC] PHP Warning:  include(./includes/navbar.php): failed to open stream: No such file or directory in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php on line 11
+[30-Mar-2020 04:31:40 UTC] PHP Stack trace:
+[30-Mar-2020 04:31:40 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:31:40 UTC] PHP Warning:  include(): Failed opening './includes/navbar.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php on line 11
+[30-Mar-2020 04:31:40 UTC] PHP Stack trace:
+[30-Mar-2020 04:31:40 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:32:31 UTC] PHP Warning:  include(/includes/head.php): failed to open stream: No such file or directory in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php on line 5
+[30-Mar-2020 04:32:31 UTC] PHP Stack trace:
+[30-Mar-2020 04:32:31 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:32:31 UTC] PHP Warning:  include(): Failed opening '/includes/head.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php on line 5
+[30-Mar-2020 04:32:31 UTC] PHP Stack trace:
+[30-Mar-2020 04:32:31 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:32:44 UTC] PHP Warning:  include(./includes/head.php): failed to open stream: No such file or directory in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php on line 5
+[30-Mar-2020 04:32:44 UTC] PHP Stack trace:
+[30-Mar-2020 04:32:44 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:32:44 UTC] PHP Warning:  include(): Failed opening './includes/head.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php on line 5
+[30-Mar-2020 04:32:44 UTC] PHP Stack trace:
+[30-Mar-2020 04:32:44 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:33:00 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php on line 5
+[30-Mar-2020 04:33:00 UTC] PHP Stack trace:
+[30-Mar-2020 04:33:00 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:33:00 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php on line 5
+[30-Mar-2020 04:33:00 UTC] PHP Stack trace:
+[30-Mar-2020 04:33:00 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:36:09 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php on line 54
+[30-Mar-2020 04:36:09 UTC] PHP Stack trace:
+[30-Mar-2020 04:36:09 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:36:09 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php on line 54
+[30-Mar-2020 04:36:09 UTC] PHP Stack trace:
+[30-Mar-2020 04:36:09 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:36:09 UTC] PHP Warning:  include(includes/scripts.php): failed to open stream: No such file or directory in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php on line 57
+[30-Mar-2020 04:36:09 UTC] PHP Stack trace:
+[30-Mar-2020 04:36:09 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:36:09 UTC] PHP Warning:  include(): Failed opening 'includes/scripts.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php on line 57
+[30-Mar-2020 04:36:09 UTC] PHP Stack trace:
+[30-Mar-2020 04:36:09 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:36:51 UTC] PHP Notice:  Undefined variable: page in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\navbar.php on line 8
+[30-Mar-2020 04:36:51 UTC] PHP Stack trace:
+[30-Mar-2020 04:36:51 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:36:51 UTC] PHP   2. include() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:10
+[30-Mar-2020 04:36:51 UTC] PHP Notice:  Undefined variable: page in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\navbar.php on line 11
+[30-Mar-2020 04:36:51 UTC] PHP Stack trace:
+[30-Mar-2020 04:36:51 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:36:51 UTC] PHP   2. include() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:10
+[30-Mar-2020 04:36:51 UTC] PHP Notice:  Undefined variable: page in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\navbar.php on line 14
+[30-Mar-2020 04:36:51 UTC] PHP Stack trace:
+[30-Mar-2020 04:36:51 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:36:51 UTC] PHP   2. include() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:10
+[30-Mar-2020 04:36:51 UTC] PHP Notice:  Undefined variable: page in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\navbar.php on line 17
+[30-Mar-2020 04:36:51 UTC] PHP Stack trace:
+[30-Mar-2020 04:36:51 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:36:51 UTC] PHP   2. include() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:10
+[30-Mar-2020 04:36:51 UTC] PHP Notice:  Undefined variable: page in C:\Users\mdruk\Local Sites\websites\app\public\dietplans\navbar.php on line 20
+[30-Mar-2020 04:36:51 UTC] PHP Stack trace:
+[30-Mar-2020 04:36:51 UTC] PHP   1. {main}() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:0
+[30-Mar-2020 04:36:51 UTC] PHP   2. include() C:\Users\mdruk\Local Sites\websites\app\public\dietplans\dietplan1.php:10
