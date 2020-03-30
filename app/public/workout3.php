@@ -20,128 +20,80 @@
    <div class="container py-3">
     <div class="row justify-content-center">
      <div class="col-lg-12">
-      <h2 class="pb-4">Eating for Aesthetics: 10 Essential Rules to Get Muscle Beach Ready</h2>
-      <h5 class="pb-4"> Mass monster? Nah...you'd rather be proportional and ripped, right? Here are the top 10 nutritional strategies you need to ensure you're on track to a lean, muscular physique.</h5>
+      <h2 class="pb-4">5 CrossFit Strategies To Help Anyone Burn Fat </h2>
+      <h5 class="pb-4"> There's no one right way to lose weight. Learn from one of the fastest-growing sports by applying these CrossFit concepts to your fat-loss routine.</h5>
 
-      <div class="col-lg-12 pb-5"><img class="img-fluid" src="img/diet3.png"></div>
+      <div class="col-lg-12 pb-5"><img class="img-fluid" src="img/work3.png"></div>
 
-      <p class="text-justify">Anyone can eat enough to get big. But if you want to add the kind of size that looks right when you're strolling down the boardwalk by the Muscle Beach Gym in Venice—where some of the greatest bodybuilders of all time have looked their best—then just "big" won't cut it.</p>
+      <p class="text-justify">Looking to ramp your fat loss? Before you do an hour of steady-state cardio or bookend your workouts with burpees and mountain climbers, consider how CrossFit can help you burn fat. In fact, whether you're a hardcore lifter who does nothing but push iron or a runner who logs miles, adding aspects of CrossFit to your training routine could boost your training and results.</p>
 
-      <p class="text-justify"> Anyone can eat enough to get big. But if you want to add the kind of size that looks right when you're strolling down the boardwalk by the Muscle Beach Gym in Venice—where some of the greatest bodybuilders of all time have looked their best—then just "big" won't cut it. </p>
+      <p class="text-justify"> Take one look at the best of the best CrossFit athletes, and it's clear just how muscular and fit—not to mention ripped—these individuals are. You don't have to quit your gym, join a box, or "drink the Kool-Aid" to benefit from the wisdom of CrossFit.</p>
 
-      <h4 class="pb-4 text-left">1. Know Your Magic Number</h4>
+      <p class="text-justify"> Here to share with you some of her best fat-loss tips is CrossFit star and RSP athlete Hannah Eden.</p>
 
-      <p class="text-justify"> Are you putting on the wrong kind of weight when you want to be losing it instead? Or maybe you're stuck in neutral? Either way, the problem may be that your calories in versus calories out balance is out of whack. To get on the right track, multiply your body weight by 16-18 to get your ideal growth range. According to this formula, a 160-pound guy should be taking in 2,560-2,880 calories per day (160 pounds multiplied by 16 and then by 18). For best results, those calories should be spread among 5-7 meals, one every 2-4 hours. If you need to drop a few pounds, multiply your body weight by 12. If maintenance is the aim, you'll want to fall within the 13-15 range. </p>
+      <h4 class="pb-4 text-left">1. Check Your Goals</h4>
 
-      <div class="col-lg-12 pb-5"><img class="img-fluid" src="img/diet33.png"></div>
+      <p class="text-justify"> When it comes to maximizing your fat loss, having clearly defined goals is key. There's a reason specific CrossFit WODs (workouts of the day) are posted before training starts; they instantly give you a sense of purpose.</p>
 
-      <p class="text-justify pb-5"> When you plan the meals to hit these numbers, keep in mind that not all calories are created equal. If they were, we could all live on ice cream and Ho Hos while we sculpt our bodies. In reality, you hit those numbers by taking a hammer and chisel to your diet to trim away the junk. Replace empty calories with a proper ratio of 30 percent protein (see number 3 below), 50-60 percent carbs (mainly whole grains, fruits and vegetables, as explained in number 5), and 10-20 percent high-quality fats (see number 6).</p>
+      <p class="text-justify">"Setting goals will keep you motivated," Hannah says. The key? Make your goals realistic and attainable. If you set a goal that is out of reach from the start, it's only a matter of time before you grow discouraged. It's human nature.</p>
 
+      <p class="text-justify pb-4">Before you even begin your journey, take some time to write down 4-5 specific goals you hope to achieve. They should concern "show" and "go"—your body composition and your fitness performance. Write these goals down and place them where you'll see them daily. You want that constant reminder. "The more consistent you are, the more results you'll see," Hannah says.</p>
 
-      <h4 class="pb-4 text-left">2. Avoid the Extremes: Make Small Tweaks</h4>
-
-      <p class="text-justify">Yeah, you really can gain or lose too much weight too fast. If you're gaining more than 2-3 pounds a week, it's probably mostly body fat. If you're dropping more than 2-3 pounds a week, it's probably a lot of muscle tissue.
-
-      </p>
-      <p class="text-justify pb-5">If, after three weeks, you're not moving toward your target at a steady pace, adjust your calorie level up or down by 200-400 calories per day. Maintain your current macronutrient ratios, and stick with that new level for another three weeks. Keep tweaking your macros until the scale is moving steadily in the right direction.</p>
-
-
-      <h4 class=" pb-4 text-left">3. Include Protein with Every Meal</h4>
-
-      <p class="text-justify">Developing a jaw-dropping, well-balanced physique comes down to protein or, more specifically, to the amino acids found in complete proteins such as meat, fish, and dairy.
-
-      </p>
-      <p class="text-justify">For protein I eat a lot of fish, mostly tuna, eggs, milk, chicken, sometimes red meat, oats, nuts seeds and kernels," says Muscle Beach-sponsored athlete Ike Catcher.</p>
-
-      <div class="col-lg-12 pb-5"><img class="img-fluid" src="img/diet333.jpg"></div>
-
-      <p class="text-justify pb-5">"Lean meats are one of your body's greatest fat-burning sources, helping to jump-start your metabolism and build healthy muscle tissue while helping you feel full and satiated," says Tiffani Bachus, RD., co-author of "No Excuses! 50 Healthy Ways to Rock Breakfast." "Approximately 15-20 percent of your daily calories should come from lean protein such as chicken and turkey breast, fish, lean cuts of beef including loin and round cuts, and egg whites.</p>
-
-
-      <h4 class="pb-4 text-left">4. Supplement with Shakes</h4>
-
-      <p class="text-justify pb-5">If you're having trouble squeezing enough of those filling foods in your meals, make protein shakes your secret weapon. Add a 20-25-gram protein shake to your meal plan once or twice a day to hit your numbers without feeling stuffed. Muscle Beach Nutrition's 100% All-Pro will do the trick. </p>
+      <h4 class="pb-4 text-left">2. Give Benchmark Workouts a Try</h4>
 
 
 
-      <h4 class="pb-4 text-left">5. Never Fear Carbs—At Least Not the Good Carbs</h4>
+      <p class="text-justify pb-3"> "One great idea is to learn all the CrossFit bodyweight benchmark workouts and do them regularly," Hannah says. These workouts will put you to the test while giving you a good sense of your base fitness level. "These are all primarily bodyweight workouts that focus more on cardio and less on strength," she explains.</p>
 
-      <p class="text-justify">If you’ve never tried to train hard and add significant amounts of muscle, "carbs" has maybe become a dirty word to you. That's a mistake. If you train intensely, you need carbs—and lots of them. Following a low-carb diet for too long can leave you feeling depleted and potentially catabolic, shedding muscle mass instead of body fat. Of course, carbohydrates cover a wide range of foods, and not all of them are bodybuilding-friendly.</p>
+      <div class="col-lg-12 pb-5"><img class="img-fluid" src="img/work33.png"></div>
 
-      <p class="text-justify">"Vegetables are a great source of carbs," says Bachus. "They're nutrient rich and high in fiber so it takes your body longer to break down, absorb, and digest them, which helps you feel full for longer. Plus, antioxidants found in many vegetables support good health and disease prevention."
-      </p>
+      <p class="text-justify">Names like "Helen," "Kelly," and "Barbara" may not sound intimating, but don't be fooled. Helen, for example, challenges you to complete three rounds of a 400-meter run, 21 kettlebell swings, and 12 pull-ups as quickly as possible.</p>
 
-      <p class="text-justify">Carbs can be split into two basic categories: simple and complex. Simple carbs include foods such as candy, fruit juice, cereals, pasta, cakes, cookies, and white bread. Your body can break down these kinds of carbs quickly, but that can cause your blood sugar levels to spike, leaving you feeling shaky, dizzy, and drained after the subsequent crash. For the most part, you'll want to limit the amount of simple carbs you consume—except for right after your workout (see number 7).
-      </p>
+      <p class="text-justify">Hannah recommends beginners start out with 2-3 CrossFit-style workouts a week. Advanced lifters can challenge themselves with 4-5 weekly workouts.</p>
 
-      <p class="text-justify">Instead, choose complex carbs that break down more slowly in the body, giving you more sustained energy and avoiding those spikes in your blood sugar level.
-      </p>
-
-      <p class="text-justify pb-5">“My go-to sources for complex carbs are sprouted Ezekiel bread in the morning and sweet potatoes with my evening meals,” says Gavin McHale, a Muscle Beach Nutrition-sponsored athlete.</p>
+      <p class="text-justify pb-4">"Since many workouts are bodyweight focused, you can do them at a higher frequency," she notes. "Still, always listen to your body, and rest if you need to."</p>
 
 
-      <h4 class="pb-4 text-left">6. Separate Fat from Fiction</h4>
+      <h4 class=" pb-4 text-left">3. Approach Fitness as a Lifestyle</h4>
 
-      <p class="text-justify">Like carbs, fat comes in a couple varieties. The bad-for-you fats include saturated or trans fats like those found in butter, cheese, ice cream, and marbled red meat.
-      </p>
+      <p class="text-justify">Hannah firmly believes CrossFit is a lifestyle. It isn't something that occupies only 30-60 minutes per day. "It's not a sport to dabble in; it's an intense way of working out that demands you take into account your recovery and nutrition," she says.</p>
 
-      <p class="text-justify pb-5">Good-for-you fats contain monounsaturated and polyunsaturated fat, which includes the essential fatty acids omega-3 and omega-6. These fats are healthier and can even reduce your risk of disease and inflammation, a welcome benefit for those who train hard. Good sources for good fats include fish, seeds and nuts, and oils such as olive, canola, sunflower, and corn.</p>
+      <p class="text-justify">Even if you're not ready to become a CrossFit star, approaching your training as an integral part of a bigger picture can help turn your habit into a lifestyle. Tightening up your diet, for example, can both aid recovery and fuel your workouts.</p>
 
-      <h4 class="pb-4 text-left">7. Don't Let a Workout Go to Waste</h4>
+      <p class="text-justify">"I recommend that you make some serious changes to your nutrition routine, starting with baby steps, to gradually improving your diet," says Hannah. "You might start with removing your worst cheat meal, and once that's gone, eliminate the next worst. Sugary drinks should be one thing to go right away, along with any deep-fried foods or candy."</p>
 
-      <p class="text-justify">If you're serious about transforming your body, you have to get your nutrition right. Period. Before you hit the gym, set the stage for success by consuming an array of nutrients, including L-citrulline, arginine, beta-alanine, and creatine, all of which can to enhance growth, strength, and endurance. The best pre-workout products deliver a mix of these.
-      </p>
+      <p class="text-justify">"Hannah also recommends using a food-tracking system to account for every single thing you put into your mouth or drink for the next seven days.</p>
 
-      <div class="col-lg-12 pb-5"><img class="img-fluid" src="img/diet3333.jpg"></div>
+      <p class="text-justify">""Sometimes we get carried away with the day, causing us to forget what we were eating and when," she says. By tracking, you'll become more conscious of what you're putting into your mouth and make better decisions because of it.</p>
 
-      <p class="text-justify pb-5">After your workout, immediately consume 20-30 grams of whey protein, along with amino acids and a fast-acting carb. Post-workout is the one time of day when sugar or candy is not such a bad thing, because the carbs in them help deliver protein to your recovering muscle tissue.
-      </p>
+      <p class="text-justify">"This doesn't mean sweets are completely off the table.</p>
 
-      <h4 class="pb-4 text-left">8. Beware of Hidden Sodium</h4>
+      <p class="text-justify pb-4">" "Don't deprive yourself of things you crave, or it will only be a matter of time before you crash and burn," she says. "One cheat meal a week so you have a bit to taste is okay; just don't finish the entire plate."</p>
 
-      <p class="text-justify">Like carbohydrates, sodium has gotten a bad rap for years. The line of thinking has been that consuming too much sodium causes the body to retain too much water, which can lead to increased blood pressure, a risk factor for heart disease, stroke, and kidney disease. Some bodybuilders have even gone on super-low-sodium diets thinking they were avoiding the kind of water-swollen physiques that don’t do well at shows.</p>
 
-      <p class="text-justify">
-       Several studies have shown that consuming less sodium can lower your blood pressure, but not by much at all.[1,2,3] The fact is, it's important to get enough sodium in your diet. The best nutritional approach is to be aware of your sodium intake and aim for levels that are neither too high nor too low, which can sometimes be tricky.</p>
+      <h4 class="pb-4 text-left">4. Try Tabata</h4>
 
-      <p class="text-justify">
-       "The problem is that sodium is often hidden in foods advertised as low-fat or non-fat," Bachus says.</p>
+      <p class="text-justify">"Tabata has proven to be an effective way to shed fat and keep lean muscle mass," Hannah says. It's basically your standard high-intensity interval training (HIIT) taken to a whole new level: 20 seconds of all-out work followed by 10 seconds of rest.</p>
 
-      <p class="text-justify pb-5">
-       These foods also tend to be highly processed. Check your labels and stick with lean, clean unprocessed foods like green vegetables, fresh meats, and unprocessed grains whenever possible. Avoid canned foods, soups, and frozen entrees, which tend to be high in sodium content.
-      </p>
+      <p class="text-justify">"Combine an intense cardio exercise with a resistance movement, and the 20 seconds you are working for will feel like a lifetime once the 4-minute workout is up," Hannah says. </p>
 
-      <h4 class="pb-4 text-left">9. Stay Hydrated!</h4>
+      <div class="col-lg-12 pb-5"><img class="img-fluid" src="img/work333.png"></div>
 
-      <p class="text-justify">Dehydration is a more common problem than you might realize, and one that can directly influence the way your body looks. A dehydration level of just 1-2 percent of body weight can compromise your work capacity and exercise performance, really screwing up your workouts and leaving your muscles looking flat.</p>
 
-      <p class="text-justify">
-       Symptoms of severe dehydration are pretty obvious: muscle cramps, lightheadedness, and heart palpitations. Signs of minor dehydration, however, can be harder to spot. To reduce the risk, maintain a steady fluid intake all day long and keep an eye out for darker-than-normal urine, which can signal dehydration. If you use thirst as a signal that you need to drink more fluids, you've probably waited too long.</p>
+      <p class="text-justify">She recommends that you keep the pace going for the full 40 minutes, switching couplets every 4 minutes and taking one breather in between. "Some of my favorite Tabata fat-blasting exercises are kettlebell swings, jumping rope (double unders), barbell or two-dumbbell push presses, handstand push-ups, barbell thrusters, box jumps, and burpees," she says.</p>
 
-      <p class="text-justify">
-       You may have heard that any liquid, even caffeinated beverages, can help meet your body's hydration needs. That's true to an extent, but your best bet is to drink good old pure water, free from calories, coloring, and additives.</p>
+      <p class="text-justify pb-4">Choose your favorites from her list, and you'll have an intense workout on your hands. </p>
 
-      <p class="text-justify pb-5">
-       "To arrive at a rough idea of the amount of water you should drink every day, divide your weight in half. That's about how many ounces of water you should consume each day," Bachus says. "If you weigh 180 pounds, consume approximately 90 ounces, or a little more than 11 cups, of water a day. Don't worry about drinking too much water. Your body will just flush the excess, along with excess sodium."</p>
 
-      <h4 class="pb-4 text-left">10. If You Booze, You Lose</h4>
+      <h4 class="pb-4 text-left">5. Build a Community and Get Support</h4>
 
-      <p class="text-justify">Alcohol is counterproductive when improved aesthetics is your goal. In fact, it does a kind of "double whammy" to your body, not only reducing your body's fat-burning ability, but actually increasing your fat storage. So, if you’re one of those people who likes to celebrate a massive workout with a bottle of beer, it's time to drop that little luxury.</p>
+      <p class="text-justify">If there's one thing anyone who's ever done CrossFit knows, it's that once you join a CrossFit gym, you become part of a new family.</p>
 
-      <p class="text-justify">
-       "Your body converts the majority of the alcohol you consume into energy to fuel your body," Bachus explains. That may sound like good news, but it means your body is burning alcohol instead of stored body fat. Worse still, any alcohol your body doesn't burn ends up being stored as fat. "</p>
+      <p class="text-justify">"CrossFit is all about community and building relationships that will last a lifetime," Hannah explains. "It's a group of people all in the same environment to better themselves."</p>
 
-      <p class="text-justify pb-5">
-       And then there is the hard truth that if you've had too much to drink, your better judgment may crawl into the back seat as you pass that all-night diner on the way home. If you really want that sculpted body you dream about, keep your eyes on the road ahead and drive on by those seven-egg cheese omelets and cinnamon rolls.</p>
+      <p class="text-justify">She recommends that you create this same type of support system in your journey as well.</p>
 
-      <h6 class="pb-2 text-left" style="color:black">References :</h6>
-      <ol class="text-justify">
-       <li>Taylor, R. S., Ashton, K. E., Moxham, T., Hooper, L., & Ebrahim, S. (2011). Reduced dietary salt for the prevention of cardiovascular disease. Cochrane Database of Systematic Reviews, 7(7).</li>
-       <li>Stolarz-Skrzypek, K., Kuznetsova, T., Thijs, L., Tikhonoff, V., Seidlerová, J., Richart, T., ... & European Project on Genes in Hypertension (EPOGH) Investigators. (2011). Fatal and nonfatal outcomes, incidence of hypertension, and blood pressure changes in relation to urinary sodium excretion. Jama,305(17), 1777-1785.</li>
-       <li>Alderman, M. H., Cohen, H., & Madhavan, S. (1998). Dietary sodium intake and mortality: the National Health and Nutrition Examination Survey (NHANES I). The Lancet, 351(9105), 781-785.</li>
-
-      </ol>
-
+      <p class="text-justify">"Surround yourself with like-minded people who will push you to support your efforts—and text you when you don't show up at the gym!" Hannah says.</p>
 
      </div>
     </div>

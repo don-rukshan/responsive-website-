@@ -58,7 +58,7 @@
 				<h3 class="pb-4">5 CrossFit Strategies To Help Anyone Burn Fat </h3>
 				<p>There's no one right way to lose weight. Learn from one of the fastest-growing sports by applying these CrossFit concepts to your fat-loss routine.</p><a class="btn btn-purple btn-lg" href="workout3.php">Click Here</a>
 			</div>
-			<div class="col-lg-4"><img class="img-fluid" src="img/diet.jpg"></div>
+			<div class="col-lg-4"><img class="img-fluid" src="img/work3.png"></div>
 		</div>
 	</div>
 	<!--- End Two Column Section -->
@@ -66,7 +66,7 @@
 	<!--- Two Column Section -->
 	<div class="container py-3">
 		<div class="row justify-content-center py-3">
-			<div class="col-lg-4"><img class="img-fluid" src="img/workout.png"></div>
+			<div class="col-lg-4"><img class="img-fluid" src="img/work4.png"></div>
 			<div class="col-lg-8">
 				<h3 class="pb-4"> Get The Benefits Of Cardio In A Fraction Of The Time!</h3>
 				<p>Here's some good news if you're pressed for time! Research shows that very short, high-intensity workouts can actually deliver the same health benefits as much longer periods of moderate exercise.</p><a class="btn btn-purple btn-lg" href="workout4.php" style="margin-left:200px">Click Here</a>
@@ -85,7 +85,7 @@
 				<h3 class="pb-4">Beach Body or Bodybuilder? How Men Should Train and Eat for Each </h3>
 				<p>Not all training is the same. Bodybuilders train with heavy weights to create a large, balanced physique. If you're after a beach body, you're looking for a leaner look, so you need to eat and lift a little less. But there's more to it than that.</p><a class="btn btn-purple btn-lg" href="workout5.php">Click Here</a>
 			</div>
-			<div class="col-lg-4"><img class="img-fluid" src="img/diet.jpg"></div>
+			<div class="col-lg-4"><img class="img-fluid" src="img/work5.png"></div>
 		</div>
 	</div>
 	<!--- End Two Column Section -->
